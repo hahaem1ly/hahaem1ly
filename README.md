@@ -1,8 +1,37 @@
-# Hi there 👋
+# Hi there, I'm Emily! 👋
 
-I'm Emily, a Computer Science student exploring projects and learning new things.
+🚀 **Computer Science Student | Builder of Cool Things**  
+🎓 Learning every day.  
+💻 Passionate about coding, AI, and solving complex problems.
 
-## 🔧 Current Focus
-- Leetcode
-- Google AI courses
-- Large Language Models
+---
+
+### 🌟 Current Focus
+- **LeetCode**: Sharpening my problem-solving skills.  
+- **Large Language Models**: Exploring AI and NLP.  
+- **Web Development**: Building dynamic React-based projects.
+
+---
+
+### 🛠 Tech Stack
+- **Languages**: JavaScript, Python, Java  
+- **Frontend**: React, Next.js, Tailwind CSS  
+- **Backend**: Node.js, REST APIs, MongoDB  
+- **Tools**: Git, Figma, Postman
+
+---
+
+### 📈 GitHub Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hahaem1ly&theme=radical)](https://github.com/hahaem1ly)  
+
+---
+
+### 🎯 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/emily-ha-885605210/)  
+- [Portfolio](https://hahaem1ly.github.io/)  
+- [Email](mailto:hello@emilyha.com)
+
+---
+
+*"Code it, ship it, and make it awesome."* 🚀
