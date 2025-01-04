@@ -21,6 +21,12 @@
 
 ---
 
+### 🌐 Explore My Work
+Check out my portfolio for projects and more about me:  
+[**hahaem1ly.netlify.app**](https://hahaem1ly.netlify.app/)  
+
+---
+
 ### 📈 GitHub Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hahaem1ly&theme=radical)](https://github.com/hahaem1ly)  
@@ -29,7 +35,7 @@
 
 ### 🎯 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/emily-ha-885605210/)  
-- [Portfolio](https://hahaem1ly.github.io/)  
+- [Portfolio](https://hahaem1ly.netlify.app/)  
 - [Email](mailto:hello@emilyha.com)
 
 ---
