@@ -4,7 +4,7 @@
 
 # Hi there, I'm Emily! 👋  
 
-🚀 **Computer Science Student (Graduating Spring 2025) | Passionate Developer**  
+🚀 **Computer Science Student (Graduating Spring 2025) | IKEA Intern**  
 🎓 Currently a **Teaching Assistant in Databases**.  
 🤖 Working as an **AI Thesis Worker at IKEA**, researching and writing about **LLMs**.  
 
