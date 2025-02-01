@@ -11,10 +11,12 @@
 ---
 
 ### 🌟 Current Focus  
-- 💡 **LeetCode**: Sharpening problem-solving skills.  
-- 🤖 **AI & LLMs**: Learning about LLM on Google cloud platform.
+- 💡 **LeetCode**: Data stuctures and algorithms. 
+- 🤖 **AI & LLMs**: Learning adn reseacrhing about LLMs on GCP. 
 - 🌐 **Web Development**: Learning three.js, building websites with 3D objects,
--  
+- 🛠 Full-Stack Development: Expanding skills in backend development and full-stack projects.
+- ⚙️ DevOps & CI/CD: Learning GitHub Actions and setting up CI/CD pipelines.
+   
 
 ---
 
