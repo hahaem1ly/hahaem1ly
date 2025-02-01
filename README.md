@@ -13,7 +13,8 @@
 ### 🌟 Current Focus  
 - 💡 **LeetCode**: Sharpening problem-solving skills.  
 - 🤖 **AI & LLMs**: Learning about LLM on Google cloud platform.
-- 🌐 **Web Development**: Learning Three js, building websites with 3D objects. 
+- 🌐 **Web Development**: Learning three.js, building websites with 3D objects,
+-  
 
 ---
 
