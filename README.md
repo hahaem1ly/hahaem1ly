@@ -14,7 +14,7 @@
 - 💡 **LeetCode**: Data stuctures and algorithms. 
 - 🤖 **AI & LLMs**: Learning adn reseacrhing about LLMs on GCP. 
 - 🌐 **Web Development**: Learning three.js, building websites with 3D objects,
-- 🛠 Full-Stack Development: Expanding skills in backend development and full-stack projects.
+- 🛠 Full-Stack Development: Expanding skills in backend development and full-stack projects by trying out different stacks (currently MERN).
 - ⚙️ DevOps & CI/CD: Learning GitHub Actions and setting up CI/CD pipelines.
    
 
