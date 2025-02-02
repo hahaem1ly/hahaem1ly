@@ -14,16 +14,16 @@
 - 🛠 **Full-Stack Projects**: Exploring the MERN stack
 - ⚙️ **DevOps**: Learning GitHub Actions for CI/CD
 
----
-
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat&logo=netlify&logoColor=white)](https://hahaem1ly.netlify.app/)
+  [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat&logo=netlify&logoColor=white)](https://hahaem1ly.netlify.app/)
 
 ---
 
 ### ✨ Latest Project
 
+#### 3D object animation
+
 ![Website Preview](./preview.gif)  
-**[3D Object Animation](https://hahaem1ly.github.io/3d-object-animation/)**
+**[Check it out here](https://hahaem1ly.github.io/3d-object-animation/)**
 
 ---
 
