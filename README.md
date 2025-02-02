@@ -31,22 +31,31 @@
 
 ---
 
-### 📊 GitHub Overview
+#### 🚀 GitHub Highlights
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/hahaem1ly">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=hahaem1ly&theme=radical" alt="GitHub Streak Stats" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/hahaem1ly">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hahaem1ly&layout=compact&theme=radical" alt="Top Languages" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <p><strong>✨ Developer by Day, Creator by Passion ✨</strong></p>
+  <p>💡 Exploring 3D objects, AI, and full-stack development</p>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=hahaem1ly&theme=radical" alt="GitHub Streak Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hahaem1ly&show_icons=true&theme=radical&hide=issues" alt="GitHub Stats" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+</div>
+
+---
+
+<div align="center">
+  <h3>📌 Check Out My Best Work Below</h3>
+  <a href="https://hahaem1ly.github.io/3d-object-animation/">
+    <img src="https://user-images.githubusercontent.com/123456789/3d-object-preview.gif" alt="3D Object Animation" width="60%"/>
+  </a>
+</div>
+
 
 
 ### 🎯 Let's Connect
