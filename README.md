@@ -34,10 +34,14 @@
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat&logo=netlify&logoColor=white)](https://hahaem1ly.netlify.app/)
 
-### latest project
+---
 
-Visist the site here - https://hahaem1ly.github.io/3d-object-animation/
-![Website Preview](./preview.gif)
+### ✨ Latest Project
+
+#### 3D Object Animation
+
+![Website Preview](./preview.gif)  
+**Visit the site here**: [3D Object Animation](https://hahaem1ly.github.io/3d-object-animation/)
 
 ---
 
