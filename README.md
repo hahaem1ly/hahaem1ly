@@ -1,22 +1,14 @@
 # Hi there, I'm Emily! 👋
 
-🚀 **Computer Science Student (Graduating Spring 2025) | IKEA Intern**  
-🎓 **Teaching Assistant in Databases**  
-🤖 **AI Thesis Worker**, researching **LLMs** at IKEA
-
----
+🚀 **Computer Science Engineer| LLM Thesis worker @ IKEA**  
 
 ### 🌟 Current Focus
-
+- 🛠 **Full-Stack Projects**: Exploring the MERN stack
 - 💡 **LeetCode**: Practicing algorithms and data structures
 - 🤖 **AI & LLMs**: Researching LLMs on GCP
 - 🌐 **Web Development**: Building 3D websites with three.js
-- 🛠 **Full-Stack Projects**: Exploring the MERN stack
 - ⚙️ **DevOps**: Learning GitHub Actions for CI/CD
-
  [![CHECK OUT MY WEBSITE HERE - CLICK ME](https://img.shields.io/badge/-CHECK%20OUT%20MY%20WEBSITE%20HERE%20--%20CLICK%20ME-FF5722?style=flat&logo=netlify&logoColor=white)](https://hahaem1ly.netlify.app/)
-
-
 ---
 
 ### ✨ Latest Project
@@ -25,7 +17,6 @@
 
 ![Website Preview](./preview.gif)  
 **[Check it out here](https://hahaem1ly.github.io/3d-object-animation/)**
-
 ---
 
 ### 🛠 Tech Stack
@@ -40,12 +31,23 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Overview
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hahaem1ly&theme=radical)](https://github.com/hahaem1ly)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hahaem1ly&layout=compact&theme=radical)
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/hahaem1ly">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=hahaem1ly&theme=radical" alt="GitHub Streak Stats" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/hahaem1ly">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hahaem1ly&layout=compact&theme=radical" alt="Top Languages" />
+      </a>
+    </td>
+  </tr>
+</table>
 
----
 
 ### 🎯 Let's Connect
 
