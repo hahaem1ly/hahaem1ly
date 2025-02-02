@@ -1,4 +1,4 @@
-# Hi there, I'm Emily! 👋
+# Hi there, I'm Emily and I love coding! 👋
 
 🚀 **Computer Science Engineer| LLM Thesis worker @ IKEA**  
 
