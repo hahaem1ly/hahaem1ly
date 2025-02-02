@@ -14,7 +14,7 @@
 - 🛠 **Full-Stack Projects**: Exploring the MERN stack
 - ⚙️ **DevOps**: Learning GitHub Actions for CI/CD
 
-  [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat&logo=netlify&logoColor=white)](https://hahaem1ly.netlify.app/)
+  [![CHECK OUT MY WEBSITE HERE - CLICK ME](https://img.shields.io/badge/-Portfolio-FF5722?style=flat&logo=netlify&logoColor=white)](https://hahaem1ly.netlify.app/)
 
 ---
 
