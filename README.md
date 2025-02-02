@@ -34,7 +34,7 @@
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat&logo=netlify&logoColor=white)](https://hahaem1ly.netlify.app/)
 
-#latest project#
+# latest project
 Visist the site here - https://hahaem1ly.github.io/3d-object-animation/
 ![Website Preview](./preview.gif)
 
