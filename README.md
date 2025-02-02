@@ -29,9 +29,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_Cloud_Platform_logo.svg" alt="GCP" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/AI.svg" alt="AI/ML" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/
 </div>
 
 
@@ -40,6 +38,12 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=hahaem1ly&theme=radical" alt="GitHub Streak Stats" width="48%" />
 </div>
+
+
+### 🎖️ My Cloud Skills Boost Badges
+
+[![GCP Skill Badge](https://gstatic.com/cloudskillboost/badges/13227177.svg)](https://www.cloudskillsboost.google/public_profiles/17231b59-a51e-4fbf-9d70-e4e8b63b14cd/badges/13227177)
+
 ### 🎯 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emily-ha-885605210/)  
