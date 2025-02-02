@@ -35,7 +35,9 @@
 
 <hr style="border: 2px solid #f28c28;" />
 
-## 🚀 GitHub Highlights  
+## 🚀 GitHub Highlights
+### 📊 **GitHub Activity Graph**
+![Emily's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hahaem1ly&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hahaem1ly&theme=radical)
 
