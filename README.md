@@ -33,13 +33,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 </div>
-
-<hr style="border: 2px solid #f28c28;" />
-
-## 🚀 GitHub Highlights
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hahaem1ly&theme=radical)
-
 <hr style="border: 2px solid #f28c28;" />
 
 ## 🎯 Let's Connect  
