@@ -4,7 +4,7 @@
 <hr style="border: 2px solid #f28c28;" />
 
 ## 🌟 Current Focus
-- 🛠 **Full-Stack Projects**: Exploring the MERN stack  
+- 🛠 **Full-Stack Projects**: Currently working on a project with Express.js and mongoDB  
 - 💡 **Coding**: Practicing algorithms and data structures  
 - 🤖 **AI & LLMs**: Researching LLMs on GCP  
 - 🌐 **Web Development**: Building 3D websites with three.js  
