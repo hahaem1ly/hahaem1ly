@@ -5,7 +5,7 @@
 
 ## 🌟 Current Focus
 - 🛠 **Full-Stack Projects**: Exploring the MERN stack  
-- 💡 **LeetCode**: Practicing algorithms and data structures  
+- 💡 **Coding**: Practicing algorithms and data structures  
 - 🤖 **AI & LLMs**: Researching LLMs on GCP  
 - 🌐 **Web Development**: Building 3D websites with three.js  
 - ⚙️ **DevOps**: Learning GitHub Actions for CI/CD  
