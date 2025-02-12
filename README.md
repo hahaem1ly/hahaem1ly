@@ -7,7 +7,7 @@
 - 🛠 **Full-Stack Projects**: Currently working on a project with Express.js and mongoDB  
 - 💡 **Coding**: Practicing algorithms and data structures  
 - 🤖 **AI & LLMs**: Researching LLMs on GCP  
-- 🌐 **Web Development**: Building 3D websites with three.js  
+- 🌐 **Web Development**: Interested in 3D dev.
 - ⚙️ **DevOps**: Learning GitHub Actions for CI/CD  
 
 [![CHECK OUT MY WEBSITE HERE - CLICK ME](https://img.shields.io/badge/-CHECK%20OUT%20MY%20WEBSITE%20HERE%20--%20CLICK%20ME-FF5722?style=flat&logo=netlify&logoColor=white)](https://hahaem1ly.netlify.app/)
