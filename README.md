@@ -2,7 +2,6 @@
 🚀 **I'm a Computer Science Engineer | LLM Thesis Worker @ IKEA**
  
 <hr style="border: 2px solid #f28c28;" />
-
 ## 🌟 Current Focus
 - 🛠 **Full-Stack Projects**: Currently working on a project with Express.js and mongoDB  
 - 💡 **Coding**: Practicing algorithms and data structures  
