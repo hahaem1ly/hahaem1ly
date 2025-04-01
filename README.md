@@ -6,7 +6,7 @@
 
 ## 🌟 Current Focus
 - 🛠 **Backend development**: Backend services with node.js
-- 🤖 **AI & LLMs**: Researching LLM integrstion with GCP Vertex AI 
+- 🤖 **AI & LLMs**: Researching LLM integration with GCP Vertex AI 
 - ⚙️ **DevOps**: Learning GitHub Actions for CI/CD  
 
 [![CHECK OUT MY WEBSITE HERE - CLICK ME](https://img.shields.io/badge/-CHECK%20OUT%20MY%20WEBSITE%20HERE%20--%20CLICK%20ME-FF5722?style=flat&logo=netlify&logoColor=white)](https://hahaem1ly.netlify.app/)
