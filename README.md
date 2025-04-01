@@ -1,14 +1,12 @@
 # Hi, I'm Emily and I love coding! 👋  
-🚀 **I'm a Computer Science Engineer | LLM Thesis Worker @ IKEA**
+🚀 **I'm a Computer Science Engineer | LLM Thesis Worker @ IKEA & student software developer @ Axis Communications **
  
 <hr style="border: 2px solid #f28c28;" />
 
 
 ## 🌟 Current Focus
-- 🛠 **Full-Stack Projects**: Currently working on a project with Express.js and mongoDB  
-- 💡 **Coding**: Practicing algorithms and data structures  
-- 🤖 **AI & LLMs**: Researching LLMs on GCP  
-- 🌐 **Web Development**: Interested in 3D dev.
+- 🛠 **Backend development**: Backend services with node.js
+- 🤖 **AI & LLMs**: Researching LLM integrstion with GCP Vertex AI 
 - ⚙️ **DevOps**: Learning GitHub Actions for CI/CD  
 
 [![CHECK OUT MY WEBSITE HERE - CLICK ME](https://img.shields.io/badge/-CHECK%20OUT%20MY%20WEBSITE%20HERE%20--%20CLICK%20ME-FF5722?style=flat&logo=netlify&logoColor=white)](https://hahaem1ly.netlify.app/)
