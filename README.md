@@ -32,14 +32,6 @@
 </div>
 <hr style="border: 2px solid #f28c28;" />
 
-## github stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hahaem1ly&show_icons=true&theme=radical" alt="Emily's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hahaem1ly&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
-<hr style="border: 2px solid #f28c28;" />
 
 ## 🎯 Let's Connect  
 
