@@ -1,12 +1,9 @@
 # Hello, I'm Emily 👋  
 🚀 **I'm a Computer Science Engineer | LLM Thesis Worker @ IKEA & student software developer @ Axis Communications**
-
-## ✨ Latest Project  
+## Latest Project  
 ### 🎨 3D Object Animation  
-
 ![Website Preview](./preview.gif)  
 **🔗 [Check it out here](https://hahaem1ly.github.io/3d-object-animation/)**  
-
 ## 🛠 Tech Stack  
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
