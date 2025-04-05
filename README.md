@@ -32,6 +32,13 @@
 </div>
 <hr style="border: 2px solid #f28c28;" />
 
+## GitHub Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hahaem1ly&theme=radical" alt="GitHub Activity Graph"/>
+</div>
+
+
 
 ## 🎯 Let's Connect  
 
