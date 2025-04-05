@@ -36,8 +36,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hahaem1ly&show_icons=true&theme=radical" alt="Emily's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=hahaem1ly&theme=radical" alt="GitHub Streak" />
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hahaem1ly&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
