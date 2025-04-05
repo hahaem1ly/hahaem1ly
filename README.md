@@ -32,6 +32,17 @@
 </div>
 <hr style="border: 2px solid #f28c28;" />
 
+## github stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hahaem1ly&show_icons=true&theme=radical" alt="Emily's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=hahaem1ly&theme=radical" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hahaem1ly&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+<hr style="border: 2px solid #f28c28;" />
+
 ## 🎯 Let's Connect  
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emily-ha-885605210/)  
