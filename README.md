@@ -1,4 +1,4 @@
-# Hello, I'm Emily 👋  
+# Hello, I'm Emily 👋
 🚀 **I'm a Computer Science Engineer | LLM Thesis Worker @ IKEA & student software developer @ Axis Communications**
 ## Latest Project  
 ### 🎨 3D Object Animation  
