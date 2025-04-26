@@ -3,6 +3,7 @@
 ## Latest Project  
 ### 🎨 3D Object Animation  
 I'm currently redoing my personal website. 
+
 ![Website Preview](./preview.gif)  
 **🔗 [Check it out here](https://hahaem1ly.github.io/3d-object-animation/)**  
 ## 🛠 Tech Stack  
